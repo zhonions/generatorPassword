@@ -163,6 +163,6 @@ body {
   color: var(--main-color6);
 }
 
-#buttonContainer i {
+#buttonContainer img{
   padding: 2px 10px;
 }
