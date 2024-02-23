@@ -130,10 +130,10 @@ body {
 }
 
 .strengthBar-none { background-color: transparent; }
-.strengthBar-low { background-color: #c1121f; }
+.strengthBar-low { background-color: #f9ce5f; }
 .strengthBar-medium { background-color: #f9ce5f; }
-.strengthBar-high { background-color: #06d6a0; }
-.strengthBar-very-high { background-color: #80ed99; }
+.strengthBar-high { background-color: #f9ce5f; }
+.strengthBar-very-high { background-color: #f9ce5f; }
 
 #strengthLevel {
   color: var(--main-color7);
